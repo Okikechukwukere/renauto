@@ -3,7 +3,7 @@ module.exports = {
   theme: {
     extend: {
       maxHeight: {
-        150: "90%",
+        150: "45rem",
       },
     },
   },
